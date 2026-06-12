@@ -48,3 +48,11 @@ console.log("datatypes string");
     var number =["kiwi","apple","pine apple","grapes","fig"];
     console.log(number.length);
     console.log(number[3]);
+
+
+
+
+
+
+
+    
