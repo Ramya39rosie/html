@@ -1,3 +1,10 @@
-var a = 10;
-var b = 20;
-console.log(a+b);
+var name = "ramya"
+console.log(name);
+
+{
+    let a = 24
+    console.log(a);
+}
+
+const a = "VETIAS"
+console.log(a);
